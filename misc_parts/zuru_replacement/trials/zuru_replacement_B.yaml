@@ -1,0 +1,28 @@
+# Zuru replacement wheel + extension (millimeters unless noted).
+
+wheel_od: 28.0
+wheel_thickness: 5.0
+
+o_ring_cord_diameter: 2.1
+o_ring_groove_radial_depth: 2.1
+o_ring_groove_axial_width_factor: 1.25
+
+extension_length: 20.0
+extension_width: 9.0
+extension_thickness_at_wheel: 10.5
+extension_thickness_at_end: 4.0
+extension_flat_under_start_y: 12.0
+
+through_hole_diameter: 5.1
+through_hole_edge_offset: 1.0
+
+screw_hole_diameter: 2.1
+screw_hole_center_from_wheel_face: 4.0
+screw_ring_cutout_inner_diameter: 4.4
+screw_ring_cutout_outer_diameter: 8.1
+screw_ring_cutout_depth: 5.1
+screw_ring_trim_depth: 1.1
+
+wheel_label_text: "B"
+wheel_label_height: 4.0
+wheel_label_depth: 0.4

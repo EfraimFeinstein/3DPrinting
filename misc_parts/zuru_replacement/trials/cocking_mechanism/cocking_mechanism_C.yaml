@@ -1,0 +1,25 @@
+# Trial config from cocking_mechanism_notes.md measurements.
+
+total_length: 45.0
+od_at_pin: 14.0
+od_max: 25.0
+flare_length: 5.0
+rounded_top_length: 9.0
+
+pin_diameter: 4.5
+pin_bore_depth: 14.0
+pin_hole_clearance: 0.1
+
+bottom_fillet_radius: 1.0
+
+rib_count: 8
+rib_width: 1.0
+rib_depth: 0.5
+
+screw_slot_width: 1.5
+screw_slot_max_depth: 0.5
+
+bottom_label_text: "C"
+bottom_label_height: 4.0
+bottom_label_depth: 0.4
+bottom_label_offset_from_pin: 2.0

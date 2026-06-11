@@ -5,3 +5,5 @@ Parts are described using Python code with the CadQuery library. The main functi
 The unit of all distances is mm.
 
 All sizes should be expressed as CONSTANTS and the non-derived quantities should be settings that can be set in the YAML settings file. Do not use any magic numbers in the code.
+
+Use "uv" for package management. To install all packages, use `uv sync --all-groups`. To run python, always use `uv run python`.
